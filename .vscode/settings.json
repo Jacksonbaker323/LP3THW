@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/jackson/envs/LP3THW-aOT7xraU/bin/python",
+    "python.pythonPath": "/home/jackson/.virtualenvs/Learn_Python_the_Hard_Way-lozn0bJ8/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.pycodestyleEnabled": false,
     "python.linting.enabled": false,
