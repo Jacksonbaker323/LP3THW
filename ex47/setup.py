@@ -11,9 +11,9 @@ config = {
     'author_email': 'jacksonbaker323@Gmail.com',
     'version': '0.1',
     'install_requires':['nose'],
-    'packages': ['NAME'],
+    'packages': ['ex47'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'Exercise 47'
 }
 
 setup(**config)
