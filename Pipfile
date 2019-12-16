@@ -8,6 +8,7 @@ nose = "*"
 
 [dev-packages]
 pep8 = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.7"
